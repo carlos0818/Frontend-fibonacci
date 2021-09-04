@@ -14,8 +14,8 @@ ng serve -o
 ```
 para que automáticamente abra una pestaña en el navegador y se visualice la web.
 
-## librerías y Frameworks utilizados
+## Librerías y Frameworks utilizados
 
-- Bootstrap
-- Fontawesome
-- Sweetalert
+- Bootstrap 5
+- Fontawesome 5
+- Sweetalert2
