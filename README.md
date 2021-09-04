@@ -2,7 +2,13 @@
 
 ## Inicialización del proyecto
 
-Para correr el proyecto, se debera ingresar a la carpeta desde la consola y escribir el comnando:
+Primero, se debera ingresar a la carpeta desde la consola y ejecutar el siguiente comando:
+```
+npm install
+```
+para que descarge todos los módulos de node en el proyecto y pueda correr la aplicación
+
+Para correr la aplicación, se debera ingresar a la carpeta desde la consola y escribir el comnando:
 ```
 ng serve -o
 ```
