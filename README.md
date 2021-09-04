@@ -7,3 +7,9 @@ Para correr el proyecto, se debera ingresar a la carpeta desde la consola y escr
 ng serve -o
 ```
 para que automáticamente abra una pestaña en el navegador y se visualice la web.
+
+## librerías y Frameworks utilizados
+
+- Bootstrap
+- Fontawesome
+- Sweetalert
